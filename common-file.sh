@@ -1,2 +1,2 @@
-mkdir dev1-folder
-touch dev1file
+mkdir dev2-folder
+touch dev2file
